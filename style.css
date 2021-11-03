@@ -97,13 +97,13 @@ mid2{
 .bottom1{
     border: rgb(228, 228, 228);
     width: 20%;
-    background-color: rgba(245, 243, 241, 0.5);
+    background-color:#FFFFFF;
     height: 100%;
     padding: 10px;
     margin-right:35px ;
     margin-left: 16%;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px #f7f2f2;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .bottom1 img{
     width: 100%;
@@ -112,21 +112,21 @@ mid2{
 .bottom2{
     border: rgb(228, 228, 228);
     width: 20%;
-    background-color: rgba(245, 243, 241, 0.5);
+    background-color:#FFFFFF;
     height: 100%;
     padding: 10px;
     margin-right:35px ;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px #f7f2f2;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .bottom3{
     border: rgb(228, 228, 228);
     width: 20%;
-    background-color: rgba(245, 243, 241, 0.5);
+    background-color:#FFFFFF;
     height: 100%;
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px #f7f2f2;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .bottom2 img{
     width: 100%;
@@ -137,14 +137,14 @@ mid2{
         height: 50%;
     }
 .ratingarea{
-    background-color: rgba(245, 243, 241, 0.5);
+    background-color: #FFFFFF;
     width: 75%;
     height: 250px;
-    margin-left: 14%;
+    margin-left: 13%;
     display: flex;
     margin-bottom: 100px;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px #f7f2f2;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .ratings{
     
@@ -162,5 +162,5 @@ footer{
     padding-top: 30px;
     text-align: center;
     height: 200px;
-    background-color: rgb(9, 13, 17);
+    background-color: rgb(11, 14, 23);
 }
