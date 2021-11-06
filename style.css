@@ -1,6 +1,8 @@
 
 body{font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 .header{
     display: flex;
@@ -20,7 +22,7 @@ h1{
     color: rgb(56, 53, 53);
 }
 .ptag{
-    padding-left: 18%;
+    padding-left: 10%;
     color: darkgray;
     line-height: 20px;
     padding-bottom: 30px;
